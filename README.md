@@ -25,3 +25,4 @@ Fear not because [a hero](https://github.com/ffpp2003) saved the day [here](http
 - TJMarkham ( original author )
 - khansas ( Spicetify )
 - Eclectic-Tech ( Weather Patch )
+- And various contributors from all over GitHub
