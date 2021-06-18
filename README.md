@@ -9,6 +9,10 @@ Widgets for Windows 10 http://win10widgets.com modified
 - CPU/GPU Temperature Measure
 - A Light Theme
 - Fixed Weather
+- And so much more
+
+## HWiNFO64 not working with CPU/GPU Temps?
+Fear not because [a hero](https://github.com/ffpp2003) saved the day [here](https://github.com/MinhThienDX/win10widgets/issues/44#issuecomment-854718435)
 
 ## Requirements
 
